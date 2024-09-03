@@ -94,11 +94,11 @@ We welcome contributions! If you have suggestions, improvements, or ideas, feel 
    git checkout -b feature-name
    ```
  3. **Make your changes** and commit them with clear messages:
-    ```bash
+   ```bash
    git commit -m "Add feature or fix description"
    ```
  4. **Push to your branch:**
-    ```bash
+   ```bash
    git push origin feature-name
    ```
 5. **Open a Pull Request to this repository**, describing your changes and why they should be merged.
