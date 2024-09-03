@@ -90,7 +90,7 @@ We welcome contributions! If you have suggestions, improvements, or ideas, feel 
 
 1. **Fork this repository** to your own GitHub account.
 2. **Create a new branch** for your feature or fix:
-   ```bash
+  ```bash
    git checkout -b feature-name
    ```
  3. **Make your changes** and commit them with clear messages:
