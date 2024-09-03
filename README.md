@@ -35,18 +35,17 @@ We leverage the latest and most reliable technologies to deliver exceptional res
 
 ### **Our Work**
 
-We’re proud to showcase our projects! Take a look at our [Portfolio](https://your-portfolio-link.com) to see what we’ve accomplished.
+We’re proud to showcase our projects! Take a look at our [Portfolio](https://lycotech.es) to see what we’ve accomplished.
 
 ### **Get in Touch**
 
 Have a project in mind? We're all ears!  
-Reach out to us via [Email](mailto:info@lycotech.com) or visit our [Website](https://lycotech.com) for more information.
+Reach out to us via [Email](mailto:lycotechcorp@gmail.com) or visit our [Website](https://lycotech.es) for more information.
 
 Follow us on our journey as we craft digital dreams into reality:
 
-- [LinkedIn](https://linkedin.com/company/lycotech)
-- [Twitter](https://twitter.com/lycotech)
-- [Instagram](https://instagram.com/lycotech)
+- [LinkedIn](https://www.linkedin.com/in/gabriel-dominguez-torres-43008231a)
+- [Instagram](https://instagram.com)
 
 ---
 
